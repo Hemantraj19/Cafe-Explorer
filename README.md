@@ -47,5 +47,3 @@ To delete a cafe, an API key ("TopSecretAPIKey") is required for authentication.
 ## Note
 
 Make sure to modify the database URI in the code if you want to use a different database.
-
-```
